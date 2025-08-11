@@ -12,6 +12,8 @@
     <p>Multi-Agent Language Game Environments for LLMs</p>
 </h3>
 
+**Aug 11, 2025: This project has been deprecated due to a lack of wide spread community use, and is no longer planned to receive any additional updates or support.**
+
 
 [![License: Apache2](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://github.com/chatarena/chatarena/blob/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/chatarena)](https://pypi.org/project/chatarena/)
